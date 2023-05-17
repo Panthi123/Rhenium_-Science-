@@ -1,0 +1,68 @@
+body{
+    margin:0;
+    padding-top: 800px;
+    text-align: center;
+}
+#picture{
+    margin-top: 200px;
+    width: 175px;
+    margin-bottom:  50px; 
+    border-radius: 50%;
+}
+#welcome{
+    position: absolute;
+    height: 800px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(#389ef5 0%, #1516a2 100%);
+}
+    .menu{
+        position: absolute;
+        margin-top: 0px;
+        top: 0px;
+        z-index: 10;
+        background: white;
+        width: 100%;
+        font-family: cursive;
+    }
+    .links{
+        color: red;
+        padding-left: 33px;
+        padding-right: 25px;
+        font-size: 20px;
+        display: inline;
+
+    }
+    .links:hover{
+        background-color: dodgerblue;
+        font-size: 25px;
+    }
+    h2{
+        font-family: 'Alkatra', cursive;
+    }
+
+    #contact iframe
+    {
+        width: 100%;
+    }
+    .movie_head
+    {
+        font-size: 20px;
+        padding: 6px 22px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+    .movie_head i
+    {
+        float: right;
+    }
+    .movie_text span
+    {
+        color: orange;
+    }
+    .i_am
+    {
+        font-family: Georgia;
+    }
